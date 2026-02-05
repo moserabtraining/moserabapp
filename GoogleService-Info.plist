@@ -3,6 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
+
 	<string>000000000000-000000000000000000000000000000.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.0000000000-00000000000000000000000</string>
@@ -32,3 +33,4 @@
 	<string>1:619930292029:ios:f6737372189b8ee9123f54</string>
 </dict>
 </plist>
+
